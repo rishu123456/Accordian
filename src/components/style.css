@@ -1,0 +1,25 @@
+.accordian {
+    display: flex;
+    height: 100vh;
+    width: 100wh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.item {
+    background: #614010;
+    margin: 10px;
+    padding: 10px;
+}
+.title {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    align-items: center;
+}
+.answer {
+    color: aliceblue;
+    height: auto;
+}
