@@ -23,3 +23,11 @@
     color: aliceblue;
     height: auto;
 }
+
+.active{
+    color: bisque;
+}
+
+.inactive {
+    color:black;
+}
